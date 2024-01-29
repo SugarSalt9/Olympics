@@ -1,2 +1,2 @@
-# olympiad
+# Olympics
 exam pro
